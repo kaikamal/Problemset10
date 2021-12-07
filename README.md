@@ -7,3 +7,6 @@
 # Target Heart Rate Calculator
 ![targetheartrate](https://user-images.githubusercontent.com/95711390/145091138-71a6ddc1-4ad2-47f8-a623-9fbcf8a44c8d.PNG)
 ![targetheartrate1](https://user-images.githubusercontent.com/95711390/145091164-b66efc43-7cef-49a2-a217-9d5fa7ef3aef.PNG)
+
+# BMI calculator
+![bmicalculator](https://user-images.githubusercontent.com/95711390/145093483-80140d10-d33f-4820-9628-f34c1b3fa816.PNG)
