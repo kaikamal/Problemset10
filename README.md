@@ -1,4 +1,5 @@
-#Sample activity- Tip Calculator
+# Sample activity- Tip Calculator
+
 ![tipcalc](https://user-images.githubusercontent.com/95711390/146492180-bdf9b7c9-25d0-4206-876c-98c480ef370e.PNG)
 ![tipcalc1](https://user-images.githubusercontent.com/95711390/146492184-0275657a-9824-405e-a516-0f496ee7d325.PNG)
 
